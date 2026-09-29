@@ -1,0 +1,2 @@
+# IMOEAD_M2M_numerical_example
+分布式生产与多车场异构车辆配送集成调度优化研究小论文实验及案例算例数据
